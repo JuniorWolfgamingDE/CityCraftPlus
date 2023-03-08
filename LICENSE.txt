@@ -1,0 +1,15 @@
+LOLCATZ WOLFGAMING MODPACK LICENSE
+Version 1, Februrary 2023
+
+Copyright (C) 2023 LOLCATZ Studios <wolfgaming@lolcatz.de>
+
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
+
+LOLCATZ WOLFGAMING MODPACK LICENSE
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+1. Any modifications to the modpack's content are allowed.
+2. Decompiling and/or modifying the source code of any mod is not allowed, unless specifically stated by the license used by the mod creator.
+3. Publishing a modified version of modpacks using this license is allowed if the name of the modpack is changed and credits are given in the modpack description.
